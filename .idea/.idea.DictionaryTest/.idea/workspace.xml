@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6364604e-04c6-4b4f-9fa3-7a86e07848db" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Backgrounds_match3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Backgrounds_match3/match3_background_livingroom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Backgrounds_match3/match3_background_livingroom.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Backgrounds_match3/match3_background_newyear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Backgrounds_match3/match3_background_newyear.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Backgrounds_match3/match3_background_office.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Backgrounds_match3/match3_background_office.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Backgrounds_match3/match3_background_park.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Backgrounds_match3/match3_background_park.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Backgrounds_match3/match_3_background_coffee.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Backgrounds_match3/match_3_background_coffee.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Bonuses.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Bonuses/bonus_hammer_450.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Bonuses/bonus_hammer_450.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Bonuses/magicWand_110.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Bonuses/magicWand_110.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Bonuses/magicWand_450.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Bonuses/magicWand_450.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Bonuses/mitten_110.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Bonuses/mitten_110.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Bonuses/mitten_450.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Bonuses/mitten_450.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Boosters.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Boosters/buster.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Boosters/buster.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Boosters/buster2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Boosters/buster2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Boosters/buster3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Boosters/buster3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Bubbles.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Bubbles/bable_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Bubbles/bable_01.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Bubbles/bable_01_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Bubbles/bable_01_point.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Bubbles/bable_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Bubbles/bable_02.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Bubbles/bable_02_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Bubbles/bable_02_point.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Bubbles/bubble_alert.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Bubbles/bubble_alert.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Bubbles/bubble_tutorial.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Bubbles/bubble_tutorial.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Bubbles/bubble_tutorial_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Bubbles/bubble_tutorial_point.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/ComicBook.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/ComicBook/arc_1_intro.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/ComicBook/arc_1_intro/atlas.spriteatlas" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/ComicBook/arc_1_intro/atlas.spriteatlas.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/ComicBook/arc_1_intro/comix_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/ComicBook/arc_1_intro/comix_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/ComicBook/arc_1_intro/comix_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/ComicBook/arc_1_intro/comix_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/ComicBook/arc_1_intro/comix_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/ComicBook/arc_1_intro/comix_3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/ComicBook/arc_1_intro/comix_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/ComicBook/arc_1_intro/comix_4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/ComicBook/arc_1_intro/comix_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/ComicBook/arc_1_intro/comix_5.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/ComicBook/arc_1_intro/comix_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/ComicBook/arc_1_intro/comix_6.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/ComicBook/arc_1_intro/comix_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/ComicBook/arc_1_intro/comix_7.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/ComicBook/arc_2_arrival.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/ComicBook/arc_2_arrival/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/ComicBook/arc_2_arrival/1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/ComicBook/arc_2_arrival/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/ComicBook/arc_2_arrival/2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/ComicBook/arc_2_arrival/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/ComicBook/arc_2_arrival/3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/ComicBook/arc_2_arrival/atlas.spriteatlas" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/ComicBook/arc_2_arrival/atlas.spriteatlas.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/ComicBook/director's story.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/ComicBook/director's story/atlas.spriteatlas" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/ComicBook/director's story/atlas.spriteatlas.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/ComicBook/director's story/frame_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/ComicBook/director's story/frame_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/ComicBook/director's story/frame_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/ComicBook/director's story/frame_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/ComicBook/director's story/frame_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/ComicBook/director's story/frame_3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/ComicBook/director's story/frame_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/ComicBook/director's story/frame_4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/ComicBook/director's story/frame_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/ComicBook/director's story/frame_5.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cube.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cube.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Editor/frame.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Editor/frame/frame_blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Editor/frame/frame_blue.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Editor/frame/frame_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Editor/frame/frame_green.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Editor/frame/frame_orange.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Editor/frame/frame_orange.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Editor/frame/frame_pink.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Editor/frame/frame_pink.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Editor/frame/frame_purple.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Editor/frame/frame_purple.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Editor/frame/frame_red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Editor/frame/frame_red.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Editor/frame/frame_yellow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Editor/frame/frame_yellow.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GUI/MainMenu/mainMenuAtlas.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/GUI/MainMenu/mainMenuAtlas.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GUI/New_Year_2021/else_snow_sprites/ElseSnowAtlas.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/GUI/New_Year_2021/else_snow_sprites/ElseSnowAtlas.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GUI/New_Year_2021/main_window_NY/MainMenuAtlas.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/GUI/New_Year_2021/main_window_NY/MainMenuAtlas.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GUI/Popups/JournalPopup/JournalPopup.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/GUI/Popups/JournalPopup/JournalPopup.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GUI/Popups/Match3UI/Match3UI.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/GUI/Popups/Match3UI/Match3UI.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GUI/Popups/OptionsPopup/optionAtlas.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/GUI/Popups/OptionsPopup/optionAtlas.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GUI/Popups/WardrobePopup/WardrobePopup.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/GUI/Popups/WardrobePopup/WardrobePopup.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GUI/SOFF_1str/  icon_soff_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GUI/SOFF_1str/  icon_soff_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GUI/diary/1_4_days/diary_1_4_atlas.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/GUI/diary/1_4_days/diary_1_4_atlas.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GUI/end_level/endLevelAtlas.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/GUI/end_level/endLevelAtlas.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GUI/fullscreen_art/fullScreenArtAtlas.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/GUI/fullscreen_art/fullScreenArtAtlas.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GUI/loading_screen/loadingAtlas.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/GUI/loading_screen/loadingAtlas.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GUI/rateGame/rateGameAtlas.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/GUI/rateGame/rateGameAtlas.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/atlas.spriteatlas" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/atlas.spriteatlas.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/boxes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/boxes/match_3_box_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/boxes/match_3_box_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/boxes/match_3_box_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/boxes/match_3_box_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/boxes/match_3_box_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/boxes/match_3_box_3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/boxes/match_3_box_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/boxes/match_3_box_4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/boxes/match_3_box_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/boxes/match_3_box_5.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/carpet.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/carpet/match_3_carpet_corner_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/carpet/match_3_carpet_corner_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/carpet/match_3_carpet_line_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/carpet/match_3_carpet_line_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/match_3_bomb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/match_3_bomb.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/match_3_donut.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/match_3_donut.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/match_3_horizontal_rocket.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/match_3_horizontal_rocket.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/match_3_magnet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/match_3_magnet.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/match_3_petard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/match_3_petard.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/match_3_rocket_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/match_3_rocket_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/match_3_rocket_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/match_3_rocket_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/match_3_vertical_rocket .png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/match_3_vertical_rocket .png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/portal.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/portal/portal_from.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/portal/portal_from.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/portal/portal_to.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/portal/portal_to.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/strawberry.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/strawberry/honey.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/strawberry/honey.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/strawberry/honey0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/strawberry/honey0.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/strawberry/honey1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/strawberry/honey1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/strawberry/honey2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/strawberry/honey2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/strawberry/honey3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/strawberry/honey3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/strawberry/honey4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/strawberry/honey4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/strawberry/honey5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/strawberry/honey5.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/strawberry/strawberry.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/strawberry/strawberry.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/strawberry/strawberry_honey.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/strawberry/strawberry_honey.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/threads.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/threads/thread0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/threads/thread0.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/threads/thread1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/threads/thread1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/threads/thread2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/threads/thread2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/wind.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/wind/match_3_wind_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/wind/match_3_wind_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/wind/match_3_wind_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/wind/match_3_wind_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/wind/match_3_wind_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/GameBoard/wind/match_3_wind_3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Good.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Good.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/NewYearEvent.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/NewYearEvent/Snowflake.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/NewYearEvent/Snowflake.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Promo.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Promo/icon_512X512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Promo/icon_512X512.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Promo/icon_512X512_r.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Promo/icon_512X512_r.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Promo/icon_ny_512X512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Promo/icon_ny_512X512.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Promo/icon_ny_r_512X512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Promo/icon_ny_r_512X512.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Icons.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Icons/alert.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Icons/alert.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Icons/berries.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Icons/berries.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Icons/buy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Icons/buy.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Icons/calendar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Icons/calendar.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Icons/cat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Icons/cat.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Icons/coffee_grain.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Icons/coffee_grain.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Icons/flask_sw.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Icons/flask_sw.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Icons/flowers.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Icons/flowers.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Icons/heart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Icons/heart.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Icons/hmm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Icons/hmm.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Icons/hunger.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Icons/hunger.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Icons/message.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Icons/message.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Icons/message_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Icons/message_point.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Icons/notes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Icons/notes.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Icons/paper.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Icons/paper.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Icons/q_mark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Icons/q_mark.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Icons/save_money.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Icons/save_money.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Icons/shock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Icons/shock.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Icons/sleep.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Icons/sleep.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Icons/sleeping_mood.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Icons/sleeping_mood.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Icons/smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Icons/smile.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Icons/talk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Icons/talk.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Icons/thumbup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Icons/thumbup.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/_common.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/_common/bed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/_common/bed.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/_common/floor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/_common/floor.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/_common/order.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/_common/order.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/_common/sleep.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/_common/sleep.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/_common/talk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/_common/talk.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/box.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/box.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day1/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day1/Materials/web.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day1/Materials/web.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day1/bedLegTask.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day1/bedLegTask.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day1/bedgg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day1/bedgg.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day1/blindTask.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day1/blindTask.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day1/boxTask.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day1/boxTask.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day1/bucket.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day1/bucket.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day1/commodeTask.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day1/commodeTask.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day1/door.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day1/door.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day1/doorTask.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day1/doorTask.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day1/textileTask.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day1/textileTask.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day1/wallpaperTask.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day1/wallpaperTask.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day1/web.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day1/web.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day2/box_run.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day2/box_run.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day2/cat_bed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day2/cat_bed.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day2/clothes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day2/clothes.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day2/fishtank.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day2/fishtank.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day2/mail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day2/mail.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day2/mailbox.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day2/mailbox.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day2/office.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day2/office.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day2/rug.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day2/rug.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day3/cat_food.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day3/cat_food.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day3/chair.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day3/chair.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day3/coffeeshop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day3/coffeeshop.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day3/cook.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day3/cook.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day3/dishwasher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day3/dishwasher.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day3/empty_bowl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day3/empty_bowl.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day3/full_bowl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day3/full_bowl.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day3/kitchen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day3/kitchen.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day3/table.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day3/table.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day3/wall.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day3/wall.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day4.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day4/broom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day4/broom.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day4/cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day4/cart.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day4/clean_pool.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day4/clean_pool.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day4/paint.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day4/paint.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day4/poster.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day4/poster.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day4/recipes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day4/recipes.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day4/sofa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day4/sofa.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day4/tv.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day4/tv.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day5.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day5/award.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day5/award.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day5/bird_house.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day5/bird_house.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day5/crutch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day5/crutch.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day5/fence.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day5/fence.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day5/fence_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day5/fence_green.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day5/flowerbed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day5/flowerbed.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day5/fountain.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day5/fountain.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day5/grass_patch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day5/grass_patch.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day5/katalog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day5/katalog.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day5/leg_ice.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day5/leg_ice.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day5/memories.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day5/memories.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day5/molbert.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day5/molbert.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day5/path.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day5/path.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day5/plant.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day5/plant.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day5/pool.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day5/pool.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day5/pool_fix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day5/pool_fix.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day5/pool_inspect.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day5/pool_inspect.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day5/pool_stones.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day5/pool_stones.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day5/porch_fix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day5/porch_fix.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day5/rocking_chair.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day5/rocking_chair.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day5/rocking_chair_broken.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day5/rocking_chair_broken.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day5/sculpture.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day5/sculpture.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day5/stones.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day5/stones.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day5/tree_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day5/tree_green.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day5/tree_yellow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day5/tree_yellow.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day5/tree_yellow_inspect.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day5/tree_yellow_inspect.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day5/yoga.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day5/yoga.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day5/yoga_mat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/day5/yoga_mat.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/general.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/general/armchair.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/general/armchair.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/general/armchair_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/general/armchair_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/general/cashbox.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/general/cashbox.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/general/catshouse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/general/catshouse.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/general/catstoy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/general/catstoy.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/general/cocktail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/general/cocktail.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/general/container.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/general/container.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/general/diary.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/general/diary.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/general/figure.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/general/figure.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/general/gameboard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/general/gameboard.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/general/guest.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/general/guest.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/general/hammer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/general/hammer.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/general/homegrass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/general/homegrass.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/general/keys.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/general/keys.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/general/lampforbook.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/general/lampforbook.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/general/lovemail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/general/lovemail.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/general/magnifier.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/general/magnifier.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/general/manuscript.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/general/manuscript.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/general/nightstand.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/general/nightstand.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/general/ottoman.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/general/ottoman.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/general/sofa_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/general/sofa_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/general/sweethome.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/general/sweethome.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/general/table_new.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/general/table_new.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/general/vase.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/Bubbles/Tasks/general/vase.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/BubblesAtlas.spriteatlas" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Resources/BubblesAtlas.spriteatlas.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Special.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Special/Blackout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Special/Blackout.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Special/WhiteRect.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Special/WhiteRect.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Super.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Super.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/AboutGame.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/AboutGame.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/AboutGame — копия.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/AboutGame — копия.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/AskFriendsForLifePopup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/AskFriendsForLifePopup.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/Bank.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/Bank.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/ChangeLanguage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/ChangeLanguage.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/DiaryTemplates.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/DiaryTemplates/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/DiaryTemplates/1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/DiaryTemplates/1_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/DiaryTemplates/1_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/DiaryTemplates/1_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/DiaryTemplates/1_3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/DiaryTemplates/2_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/DiaryTemplates/2_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/DiaryTemplates/2_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/DiaryTemplates/2_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/DiaryTemplates/2_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/DiaryTemplates/2_3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/DiaryTemplates/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/DiaryTemplates/3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/DiaryTemplates/4_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/DiaryTemplates/4_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/DiaryTemplates/4_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/DiaryTemplates/4_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/DiaryTemplates/4_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/DiaryTemplates/4_3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/JournalPopup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/JournalPopup.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/Lives.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/Lives.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/LosePopup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/LosePopup.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/MainMenu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/MainMenu.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/MapPanel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/MapPanel.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/MapPanel_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/MapPanel_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/Match3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/Match3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/Materials/poster_lady.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/Materials/poster_lady.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/Materials/visitka.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/Materials/visitka.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/PlayLevelPopup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/PlayLevelPopup.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/Privacy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/Privacy.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/Settings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/Settings.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/Wardrobe1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/Wardrobe1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/Wardrobe2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/Wardrobe2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/buy_lives_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/buy_lives_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/buy_lives_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/buy_lives_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/end_Levels_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/end_Levels_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/end_levels_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/end_levels_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/end_levels_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/end_levels_3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/exit_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/exit_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/life_end.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/life_end.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/life_stars.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/life_stars.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/loading_screen.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/loading_screen/Loading 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/loading_screen/Loading 1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/loading_screen/Loading 2_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/loading_screen/Loading 2_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/loading_screen/Loading 2_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/loading_screen/Loading 2_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/loading_screen/Loading 2_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/loading_screen/Loading 2_3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/loading_screen/Loading 2_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/loading_screen/Loading 2_4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/loading_screen/Loading 2_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/loading_screen/Loading 2_5.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/loading_screen/Loading 3_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/loading_screen/Loading 3_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/loading_screen/Loading 3_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/loading_screen/Loading 3_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/loading_screen/Loading 3_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/loading_screen/Loading 3_3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/loading_screen/Loading 3_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/loading_screen/Loading 3_4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/loading_screen/Loading 3_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/loading_screen/Loading 3_5.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/loading_screen/Loading 3_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/loading_screen/Loading 3_6.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/loading_screen/Loading 4_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/loading_screen/Loading 4_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/loading_screen/Loading 4_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/loading_screen/Loading 4_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/login.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/login.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/match3_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/match3_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/match3_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/match3_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/match3_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/match3_3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/match_3_клубника.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/match_3_клубника.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/match_3_ковер.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/match_3_ковер.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/name_cat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/name_cat.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/poster_lady.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/poster_lady.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/rate_game.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/rate_game.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/registration_contrac.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/registration_contrac.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/winPopup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/winPopup.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/win_window_animation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/win_window_animation.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/недостаточнозвезд.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Temp/недостаточнозвезд.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Yummy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Yummy.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/exchange-alt-solid.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/exchange-alt-solid.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/logo_text_h_en.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/logo_text_h_en.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mini_games.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mini_games/letter.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mini_games/letter/ letter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mini_games/letter/ letter.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mini_games/letter/leav_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mini_games/letter/leav_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mini_games/letter/leav_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/mini_games/letter/leav_2.png.meta" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Assets/Sprites" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DirectoryView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DirectoryData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/63DD8BF9-8CFA-4BA9-85AF-735EF1A56BA9/a7/5d9a2430/Dictionary`2.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DirectoryAutoTest.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/DirectoryView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DirectoryData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DirectoryAutoTest.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1m2cAEoBjZBpVsP8dqUNyptJzKq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="6984">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="6984" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6364604e-04c6-4b4f-9fa3-7a86e07848db" name="Default Changelist" comment="" />
+      <created>1608694981861</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608694981861</updated>
+      <workItem from="1608694986355" duration="6547000" />
+      <workItem from="1608703407667" duration="928000" />
+      <workItem from="1610597998517" duration="7049000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
