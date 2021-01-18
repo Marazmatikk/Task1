@@ -37,7 +37,7 @@ public class DirectoryView : MonoBehaviour
     
     void Start()
     {
-        directoryData = new DirectoryData();
+        directoryData = new DirectoryData(true);
         directoryData.LoadData();
         
         addBtn.onClick.AddListener(AddElement);
@@ -50,8 +50,8 @@ public class DirectoryView : MonoBehaviour
 
     void ShowAllElements()
     {
-        var data = directoryData.Data;
-        if (data.Count != 0)
+        var data = directoryData.GetDirectoryCopy();
+        if (data != null)
         {
             foreach (var citizenData in data)
                 Debug.Log($"{citizenData.Value.name} проживает: {citizenData.Value.address}, номер телефона: {citizenData.Key}");
