@@ -1,26 +1,28 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using NUnit.Framework;
 using UnityEngine;
 using UnityEngine.UI;
 
 public class DirectoryAutoTest : MonoBehaviour
 {
-    DirectoryData directoryData = new DirectoryData(false);
-
     string  testKey   = "8-999-66-55-404";
     Citizen testValue = new Citizen("Test Testov", "Street Test");
 
+    DirectoryData dictionary;
+
+    ReadOnlyDictionary<string, Citizen> Data => dictionary.Data;
 
     [Test]
     public void AddElementTest()
     {
-        directoryData.AddCitizenData(testKey, testValue);
-        var data = directoryData.GetDirectoryCopy();
-        if (data.ContainsKey(testKey))
+        InitDictionary();
+        AddElementIfKeyNotFound();
+        if (Data.ContainsKey(testKey))
         {
-            var citizen = data[testKey];
+            var citizen = Data[testKey];
             Assert.IsTrue(citizen.name == testValue.name);
             Assert.IsTrue(citizen.address == testValue.address);
         }
@@ -29,43 +31,36 @@ public class DirectoryAutoTest : MonoBehaviour
     [Test]
     public void SearchByNumberTest()
     {
-        var data = directoryData.GetDirectoryCopy();
-        if (data.ContainsKey(testKey))
-            Assert.IsTrue(directoryData.SearchByNumber(testKey) != null);
-        else
-        {
-            AddElementTest();
-            Assert.IsTrue(directoryData.SearchByNumber(testKey) != null);
-        }
+        AddElementIfKeyNotFound();
+        Assert.IsTrue(dictionary.SearchByNumber(testKey) != null);
+
     }
 
     [Test]
     public void SearchByNameTest()
     {
-        var data = directoryData.GetDirectoryCopy();
-        if (data.ContainsKey(testKey))
-            Assert.IsTrue(directoryData.SearchByName(testValue.name) != null);
-        else
-        {
-            AddElementTest();
-            Assert.IsTrue(directoryData.SearchByName(testValue.name) != null);
-        }        
+        AddElementIfKeyNotFound();
+        Assert.IsTrue(dictionary.SearchByName(testValue.name) != null);
     }
-    
+
     [Test]
     public void RemoveElementTest()
     {
-        var data = directoryData.GetDirectoryCopy();
-        if (data.ContainsKey(testKey))
-        {
-            directoryData.RemoveCitizenData(testKey);
-            Assert.IsTrue(!data.ContainsKey(testKey));
-        }
-        else
-        {
-            AddElementTest();
-            directoryData.RemoveCitizenData(testKey);
-            Assert.IsTrue(!data.ContainsKey(testKey));
-        }
+        AddElementIfKeyNotFound();
+        dictionary.RemoveCitizenData(testKey);
+        Assert.IsTrue(!Data.ContainsKey(testKey));
     }
+
+    void InitDictionary()
+    {
+        if (dictionary == null)
+            dictionary = new DirectoryData(false);
+    }
+
+    void AddElementIfKeyNotFound()
+    {
+        if (!Data.ContainsKey(testKey))
+            dictionary.AddCitizenData(testKey, testValue);
+    }
+
 }

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.IO;
 using System.Linq;
 using UnityEngine;
@@ -29,6 +30,7 @@ public class DirectoryData
 	string dataPath = Application.dataPath + "/Resources/DirectoryData.json";
 
 	Dictionary<string, Citizen> data = new Dictionary<string, Citizen>();
+	public ReadOnlyDictionary<string, Citizen> Data => new ReadOnlyDictionary<string, Citizen>(data);
 
 	bool needSave;
 
